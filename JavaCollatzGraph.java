@@ -38,7 +38,7 @@ public class Main
         sorted.putAll(results);
 		try
 		{
-			FileOutputStream fos=new FileOutputStream("/sdcard/collatz.txt");
+			FileOutputStream fos=new FileOutputStream("/YOUR PATH TO CREATE TEXT FILE");
 			StringBuilder sb=new StringBuilder();
 			sb.append("digraph G {\n\tsize=\"16,16\";\n\troot=8;\n\tsplines=true;\n");
 			for (int x : sorted.keySet()){
