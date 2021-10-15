@@ -2,7 +2,7 @@
 Collatz Graph implementation in Java.
 There is problem in sorting only (maybe anyone can change code).
 
-Реализация Collatz Graph на Java.
+Реализация графа Коллатца на Java.
 Проблема только в сортировке (может кто поменяет код).
 
 1. Run Program (Запустите программу)
