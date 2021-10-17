@@ -1,5 +1,5 @@
 # Java-Collatz-Graph
-Collatz Graph implementation in Java.
+Collatz Graph implementation in Java. https://ht.m.wikipedia.org/wiki/Fichye:Collatz-graph-20-iterations.svg
 There is problem in sorting only (maybe anyone can change code).
 
 Реализация графа Коллатца на Java.
